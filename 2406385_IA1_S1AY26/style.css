@@ -240,4 +240,16 @@ footer {
     .resume-content {
         padding: 1rem;
     }
+
 }
+<section id="github-repo">
+    <h2>GitHub Repository</h2>
+    <div class="repo-link">
+        <h3>Source Code & Project Files</h3>
+        <p>All source code, resources, and deliverables for this assignment are available on GitHub:</p>
+        <a href="https://github.com/your-username/2406385_IA1_S1AY26" target="_blank" class="github-button">
+            🌐 View on GitHub: https://github.com/your-username/2406385_IA1_S1AY26
+        </a>
+        <p><em>Includes all HTML files, CSS, images, storyboard documents, and resources used in this project.</em></p>
+    </div>
+</section>
